@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Reffy Syahnata**. <br>
 
-Saya berusia 17 tahun dan saat ini menempuh pendidikan di SMKN 2 Kota Tebing Tinggi.
+Saya berusia 18 tahun dan saat ini menempuh pendidikan di SMKN 2 Kota Tebing Tinggi.
 Saya memiliki ketertarikan kuat dalam bidang pemrograman, khususnya Web Development.
 Dengan pengalaman lebih dari satu tahun dalam mempelajari dan mengasah ketrampilan coding, saya terus berkomitmen untuk berkembang dan memperdalam pengetahuan saya di dunia teknologi. Semangat belajar dan inovasi menjadi motivasi utama saya untuk terus berkarya di bidang ini.
 
