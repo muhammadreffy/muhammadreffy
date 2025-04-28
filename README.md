@@ -7,7 +7,7 @@ Saya memiliki ketertarikan kuat dalam bidang pemrograman, khususnya Web Developm
 Dengan pengalaman lebih dari satu tahun dalam mempelajari dan mengasah ketrampilan coding, saya terus berkomitmen untuk berkembang dan memperdalam pengetahuan saya di dunia teknologi. Semangat belajar dan inovasi menjadi motivasi utama saya untuk terus berkarya di bidang ini.
 
 ## Cerfiticate
-<!-- ![alt text](https://github.com/muhammadreffy/muhammadreffy/blob/main/IMG_20250207_142151.jpg?raw=true) -->
+![alt text](https://github.com/muhammadreffy/muhammadreffy/blob/main/IMG_20250207_142151.jpg?raw=true)
 
 <p align="left">
 <a href="https://github.com/muhammadreffy">
