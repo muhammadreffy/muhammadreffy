@@ -1,7 +1,7 @@
 # Halo semua!👋
 
 Perkenalkan nama saya **Muhammad Reffy Syahnata**. <br>
-<a href="muhammadreffy.my.id">
+<a href="https://muhammadreffy.my.id">
   Personal Website
 </a>
 
