@@ -29,6 +29,6 @@ https://muhammadreffy.com
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,nodejs,react,laravel,express&perline=5)](https://skillicons.dev) -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadreffy&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
