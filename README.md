@@ -2,7 +2,7 @@ Glad to have you here. I’m Muhammad Reffy Syahnata — a tech enthusiast with 
 
 More About Me
 <br/>
-<a href="https://muhammadreffy.com">
+<a href="https://syahnata.me">
 https://muhammadreffy.com
 </a>
 
